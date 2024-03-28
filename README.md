@@ -1,6 +1,12 @@
-# Documentation
+# Docs - dnthmn
 
 This website is built using [Docusaurus](https://docusaurus.io/).
+
+#### Create Docs
+
+```bash
+npx create-docusaurus@latest [name]
+```
 
 #### Installation
 
